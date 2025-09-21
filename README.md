@@ -10,7 +10,7 @@ I bring both academic research and industry expertise together to deliver soluti
 I’m passionate about applying **machine learning, advanced analytics, and AI engineering** to solve complex real-world challenges in **energy, offshore, and industrial environments**.  
 
 📫 **Let’s Connect**  
-- [LinkedIn](https://www.linkedin.com/in/zarghamsalari)  
-- ✉️ zarghamsalari@email.com  
+- [LinkedIn](https://www.linkedin.com/in/z-salari/)  
+
 
 💡 *“Every dataset is an opportunity to innovate, discover, and improve the world around us.”*  
