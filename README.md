@@ -1,6 +1,5 @@
   Hi, I’m Zargham Salari  
 
-🚀 **AI Project Manager @ AISUS Offshore Ltd.**  
 With 15+ years of experience spanning **academia, energy operations, and AI/ML**, I specialize in designing intelligent systems that drive innovation in offshore inspection, anomaly detection, corrosion forecasting, and digital twin development.  
 
 🌱 **Passion & Focus**  
